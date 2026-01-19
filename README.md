@@ -18,7 +18,7 @@ Open index.html in the browser of your choice and see the website.
 ## History
 TODO: Write history
 ## Credits
-Jake
+Russell
 ## License
 MIT License
 ß
